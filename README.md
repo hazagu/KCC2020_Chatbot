@@ -28,6 +28,7 @@ This bot uses the Dispatch service to route utterances as it demonstrates the us
 
 1. 챗봇의 주제 정하기
 2. QnA model 생성
+3. mannerbotwithQnA 생성
 
 ### Gate03
 
@@ -36,12 +37,16 @@ This bot uses the Dispatch service to route utterances as it demonstrates the us
 
 ### Gate04
 
-1. dispatch model 
-
 dispatch : LUIS 모델 및 QnA 모델 사용
 LUIS : 문장교정
 QnA : 생활 예절 질문 및 답변
 
+step 1 : corebot 생성 - visual studio 2019
+step 2 : QnA model 생성 - QnA Maker & Azure portal
+step 3 : LUIS model 생성
+step 4 : dispatch 생성 - cmd
+step 5 : code 수정 - visual studio 2019
+step 6 : Deploy the bot to Azure - visual studio 2019, Azure portal
 
 ### Use Dispatch with Multiple LUIS and QnA Models
 
@@ -50,8 +55,8 @@ To learn how to configure Dispatch with multiple LUIS models and QnA Maker servi
 ## MannerBot url
 []()
 
-### Chatbot 실행하기
-## Testing the bot using Bot Framework Emulator
+## Chatbot 실행하기
+### Testing the bot using Bot Framework Emulator
 
 [Bot Framework Emulator](https://github.com/microsoft/botframework-emulator) is a desktop application that allows bot developers to test and debug their bots on localhost or running remotely through a tunnel.
 
