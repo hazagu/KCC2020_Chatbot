@@ -1,0 +1,1756 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "무엇보다 시간을 잘 지키는 것이 중요하다. 늦게 오는 것이 권위 있는 것이라고 생각한다면 오산. 시간 약속을 지키지 않으면 타인에 대한 배려가 없고 무례하게 생각된다. 웨이터, 웨이트리스, 플래너들에게 존댓말로 눈을 맞추며 말하는 것도 중요하다. 다짜고짜 반말을 하는 사람은 교양 없어 보이기 마련이다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "파티에서 매너가 좋아 보이려면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 2,
+      "answer": "노출이 심한 옷을 입고 와 쩔쩔 매는 경우, 대화에 관심 없고 음식만 먹는 경우, 음식을 소리 내어 먹는 경우, 어울리지 않는 자리에 아이들을 데려오는 경우 등.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "파티에서 꼴불견인 모습은 어떤 것인가?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 3,
+      "answer": "이름과 하는 일을 설명하는 것과 더불어 소개하는 사람의 특징적인 장점을 소개하는 것이 좋다. 유머스럽게 말하면 장난처럼 들릴 수 있으므로 다른 사람 소개를 할 때는 진지하게 하는 것이 좋다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "아는 사람을 소개할 때에는 어떤 것들을 말해야 하나?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 4,
+      "answer": "사적인 질문은 자제한다. 특히 요즘은 이혼한 부부가 많으므로 상대방 배우자에 관한 질문은 먼저 묻지 않는다. 전공이나 자녀 자랑, 주변 친척이나 지인이 매우 유명한 사람이라는 등을 나열해 잘난 척하는 것도 좋지 않다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "편안하게 대화할 때 유의할 점이 있나?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 5,
+      "answer": "빵 접시를 착각하는 경우가 많다. 빵 접시는 왼쪽에 놓인 것이 본인 것이다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "테이블 매너 중에서 한국 사람들이 가장 많이 저지르는 실수가 있다면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 6,
+      "answer": "솔직하게 웨이터에게 물어보는 게 좋다. 무작정 추천해달라는 것보다 본인이 좋아하는 재료나 시도해보고 싶은 재료가 들어간 것으로 골라달라고 하면 좋다. 예를 들면, '생선 요리를 좋아하는데'처럼 운을 띄우면 직원이 친절히 알려줄 것이다. 주문한 음식의 먹는 방법을 모를 때도 웨이터를 불러 눈을 바라보면서 메뉴에 대한 설명을 부탁한다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "음식을 주문할 때, 메뉴판을 봐도 모르겠다면 어떻게 해야 할까?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 7,
+      "answer": "직원을 큰 소리로 부르지 말고 조용히 손을 들고 눈을 마주친다. 미안하다는 말을 하는 것이 예의다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "포크나 스푼을 떨어트렸거나 접시, 컵 등을 깼을 때는 어떻게 해야 할까?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 8,
+      "answer": "식사를 마친 본인도 민망하지만 다른 사람들도 식사를 빨리 하게 되는 민폐를 끼칠 수 있다. 편안한 마음으로 음료를 들며 대화를 나누는 센스를 발휘한다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "본의 아니게 다른 사람들보다 먼저 식사를 마쳤을 경우 어떻게 행동할까?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 9,
+      "answer": "고개를 끄덕거리고 이야기를 하는 사람의 얼굴을 자주 쳐다봐 주는 것이 좋다. 테이블에서 너무 멀리 앉지 않고, 이야기하는 사람을 향해 상반신을 기울여서 앉는 자세도 바람직하다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "상대방의 얘기를 들을 때 바른 자세는 무엇일까?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 10,
+      "answer": "당일 아침 신문은 정독하고 가는 것이 좋다. 자신의 이야기보다 상대방 이야기를 경청하고 리액션을 많이 보여주는 것이 좋다. 남편의 모임에는 이야기를 듣는 경청이 90%, 이야기를 하는 것이 10% 정도로 듣는 쪽에 무게를 두는 것이 좋다.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "모임에 어울릴 수 있는 노하우가 있다면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 11,
+      "answer": "세종시 문제, 신종플루, 막걸리 유행, 올레길, 김연아, 신지애.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "올해 연말 모임에 회자될 주제를 꼽는다면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 12,
+      "answer": "'신의 물방울' '절제의 성공학' '경청'.",
+      "source": "http://danmee.chosun.com/site/data/html_dir/2009/11/23/2009112301154.html",
+      "questions": [
+        "모임에 대비해 읽어두면 좋은 책을 추천한다면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 13,
+      "answer": "![매너](https://media.istockphoto.com/photos/hand-writing-inscription-etiquette-with-marker-concept-picture-id847330938?b=1&k=6&m=847330938&s=170667a&w=0&h=b98Eyg50IVV0w16i_h39W686qVO9EqJNZAEsE31ILG0=)\n\n저희는 누군가에게 묻기 힘들지만 혼자 판단하기 어려운 **생활예절**을 궁금해하는 사람들을 위해 **도움을 주는 챗봇**을 만들고 있습니다.😉",
+      "source": "Editorial",
+      "questions": [
+        "목적이 무엇입니까?",
+        "목적",
+        "목적 알려주세요",
+        "묵적을 알려주세요",
+        "안녕",
+        "hi",
+        "hello",
+        "안녕하세요",
+        "목적이 무엇인가요?",
+        "목적이 무엇인가요"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 22,
+      "answer": "ㄴ 공식 학과 행사\n\n교수님, 안녕하세요 :)\n\n저는 OOO을 수강하고 있는\n\nOO학과 OO학번 OOO 입니다.\n\nO/O에 저희 과 전원 필수참석 행사가 있어\n\n부득이하게 수업에 참석하지 못하였습니다.\n\n학과사무실에서 참석확인서를 발급해주었는데,\n\n혹시 이럴 경우 출석인정이 가능할지 문의 드립니다.\n\n확인해주시면 조교님 통해 제출하겠습니다!\n\n감사합니다.\n\nOOO 드림",
+      "source": "http://jobnjoy.com/portal/joy/life_view.jsp?nidx=303239",
+      "questions": [
+        "공식학과 행사"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 23,
+      "answer": "교수님, 안녕하세요 :)\n\n저는 OOO을 수강하고 있는\n\nOO학과 OO학번 OOO 입니다.\n\n다름이 아니라, O/O에 OOOO로 인해\n\n수업에 참석하지 못할 것 같습니다.\n\n(* 구체적으로 적자. ~로 인한 건강검진, 부모님 퇴임식 참석 등)\n\n다른 날짜로 조정이 불가피한 상황이라, 출석 인정 받을 수 있는 다른 방법이 있을 지 문의 드립니다.\n\n출석인정이 가능하다면 관련 서류를 발급받을 수 있는지 확인해보고자 합니다.\n\n확인 부탁드립니다!\n\n감사합니다.\n\nOOO 드림.",
+      "source": "http://jobnjoy.com/portal/joy/life_view.jsp?nidx=303239",
+      "questions": [
+        "비공식학과 행사"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 24,
+      "answer": "교수님, 안녕하세요 :)\n\n저는 OOO을 수강하고 있는\n\nOO학과 OO학번 OOO 입니다.\n\nOOO 수업의 OOO부분을 공부하다 이해 가지않는 부분이 있어 몇가지 질문 드리고 싶습니다.\n\n바쁘시겠지만 시간 내주시면 찾아뵙고 질문 드려도 될지 문의 드립니다. 질문드릴 내용은 대략 아래와 같습니다!\n\n어쩌구저쩌구\n\n어쩌구저쩌구\n\n어쩌구저쩌구\n\n확인 부탁드립니다.\n\n감사합니다.\n\nOOO 드림.",
+      "source": "http://jobnjoy.com/portal/joy/life_view.jsp?nidx=303239",
+      "questions": [
+        "면담 관련 문의",
+        "면담 요청드리고 싶은데 어떻게 하지?",
+        "면담 요청",
+        "면담 신청"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 25,
+      "answer": "교수님, 안녕하세요 :)\n\n저는 OOO을 수강하고 있는\n\nOO학과 OO학번 OOO 입니다.\n\nO/O 까지 제출해야하는 레포트에 대해\n\n질문이 있어 메일로 문의드립니다.\n\n(* 사실 이런건 수업끝나고 질문드리는게 젤 좋당.)\n\n레포트 주제에 대해서, 저는 △ △ △로 방향을 설정하였습니다. OO와 △ △ 를 연결시켜서 풀어나가고자 하는데, 혹시 이 부분이 주관적이진 방향이진 않을까 우려가 됩니다.\n\n관련해서 내일 수업 끝나고 질문 드려도 될지 문의 드립니다!\n\n(* 교수님이 따로 시간잡아주시거나, 코멘트 해주실 수 있음.)\n\n감사합니다.\n\nOOO 드림.",
+      "source": "http://jobnjoy.com/portal/joy/life_view.jsp?nidx=303239",
+      "questions": [
+        "과제 관련 문의"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 26,
+      "answer": "교수님, 안녕하세요 :)\n\n저는 OOO을 수강하고 있는\n\nOO학과 OO학번 OOO 입니다.\n\n다름이 아니라, 이번 학기 수업 성적이 제가 예상한 것보다 낮아 어떤 부분이 부족했는지 알고 싶어 메일 드렸습니다.\n\n중간고사, 기말고사 점수는 확인을 하였고,\n\n레포트나 조별과제에서 점수가 많이 깎인 것 같습니다. 부족한 부분 알려주시면 앞으로 더 보완하고 싶습니다!\n\n바쁘신 와중에 시간 내주셔서 정말 감사드리고,\n\n한 학기동안 좋은 수업 해 주셔서 많이 배웠습니다.\n\n다시 한번 감사드립니다!\n\nOOO드림.",
+      "source": "http://jobnjoy.com/portal/joy/life_view.jsp?nidx=303239",
+      "questions": [
+        "성적 관련 문의"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 28,
+      "answer": "출석 문의 메일의 예시를 보여드릴게요!\n\n어떤 행사인가요?",
+      "source": "Editorial",
+      "questions": [
+        "출석인정 문의",
+        "출석 문의 드리고 싶은데",
+        "출석 문의",
+        "출결 문의",
+        "출결",
+        "출석"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 23,
+            "displayText": "비공식학과 행사"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 22,
+            "displayText": "공식학과 행사"
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "answer": "원하는 기능을 눌러주세요",
+      "source": "Editorial",
+      "questions": [
+        "확인"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 31,
+            "displayText": "문장 교정"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 50,
+            "displayText": "생활 예절"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 30,
+            "displayText": "매너영역 모의고사"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "아이들에게 매너심어주기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "answer": "![축의금](https://cdn.pixabay.com/photo/2016/11/22/19/05/couple-1850073__480.jpg)\n\n첫번째 문제는 쉬운 문제로 준비해봤습니다. 😀\n\n다음 중 축의금을 받을 수 있는 상황을 골라주세요.",
+      "source": "Editorial",
+      "questions": [
+        "퀴즈"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 32,
+            "displayText": "1. 상대 결혼식에 내가 축의금을 냈을 때 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 33,
+            "displayText": "2. 상대가 주머니 사정이 좋지 않다고 미리 말했을 때 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "answer": "교정하고자하는 문장을 입력해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "문장교정"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 51,
+            "displayText": "상하관계"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 52,
+            "displayText": "동등 관계"
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n첫번째 문제는 너무 쉬웠죠??\n\n다음 문제를 풀고싶다면 \"**다음** **문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "1.     상대 결혼식에 내가 축의금을 냈을 때 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 34,
+            "displayText": "다음 문제 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!** \n\n상대방의 여건도 존중해주어야 합니다! 바쁜 시간 내어 결혼식에 와준 것만으로도 기쁜 마음으로 보답해주도록 해요^^\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [개념하객이 되기 위한 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "2.  상대가 주머니 사정이 좋지 않다고 미리 말했을 때 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 106,
+            "displayText": "개념하객이 되기 위한 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "answer": "![도로](https://cdn.pixabay.com/photo/2014/07/01/12/35/taxi-cab-381233__480.jpg)\n\n_**Quiz 2**_. 다음 중 도로 예절로 올바른 행동은 무엇일까요?",
+      "source": "Editorial",
+      "questions": [
+        "두번째 문제 풀기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 35,
+            "displayText": "1. 내차의 존재감을 알리기 위해 클랙슨 울리기"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 36,
+            "displayText": "2. 고속도로 1차로에서 시속 50~60km로 드라이브하기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 37,
+            "displayText": "3. 차 앞유리에 전화번호가 새겨진 물품을 항시 고정시켜놓기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n클랙션은 운전 중 위급상황을 알릴때 사용합시다!\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [클랙션 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "1. 내차의 존재감을 알리기 위해 클랙슨 울리기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 114,
+            "displayText": "클랙션 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "answer": "![땡!](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n고속도로는 규정속도 **100km/h**에 맞춰 주행해야 합니다. 규정 속도보다 천천히 갈 경우 터널이 끝나는 지점이나 합류지점 등에서 사고가 발생할 수 있기 때문입니다.\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [고속도로에서 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "2. 고속도로 1차로에서 시속 50~60km로 드라이브하기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 116,
+            "displayText": "고속도로에서 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n두번째 문제도 잘 통과하셨네요^_^\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "3. 차 앞유리에 전화번호가 새겨진 물품을 항시 고정시켜놓기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 38,
+            "displayText": "다음 문제 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "answer": "![장례식](https://media.istockphoto.com/photos/paying-his-respects-picture-id627008872?b=1&k=6&m=627008872&s=170667a&w=0&h=vxkEGPsAZNKXcZEL1y2e_kj6cesThTjEGHaOilNnRGM=)\n\n_**Quiz 3.**_ 장례식장에서 삼가해야하는 행동이 아닌 것은?",
+      "source": "Editorial",
+      "questions": [
+        "세번째 문제 풀기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 39,
+            "displayText": "1. 음주시 건배를 한다."
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 40,
+            "displayText": "2. 화려한 장신구나 악세사리를 착용한다. "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 41,
+            "displayText": "3.조의금 봉투에 이름과 회사 등 소속을 상세히 적는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n대부분의 장례식장은 엄숙한 분위기에서 진행이 됩니다. 건배와 같은 행동은 삼가해야하는 행위입니다.\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [장례식장에서 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "1. 음주시 건배를 한다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 117,
+            "displayText": "장례식장에서 지켜야 할 에티켓 7가지"
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n**tip)**기본적으로 복장은 단정해야하며, 학생은 교복을 입는 것도 괜찮습니다.\n\n남성의 경우 흰셔츠나 검정셔츠에 양복 정장차림, 여성의 경우 어두운 색 계통 검정색으로 옷을 입도록합니다.\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [장례식장에서 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "2. 화려한 장신구나 악세사리를 착용한다. "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 117,
+            "displayText": "장례식장에서 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n세번째 문제도 잘 통과하셨네요\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "3.조의금 봉투에 이름과 회사 등 소속을 상세히 적는다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 42,
+            "displayText": "다음 문제 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "answer": "![식사](https://cdn.pixabay.com/photo/2016/11/20/14/57/dining-together-1842973__480.jpg)\n\n_**Quiz 4**_. 다음 중 식사매너로 옳지 않은 것은?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 43,
+            "displayText": "1. 다른 사람들보다 빨리 먹고 먼저 일어나기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 44,
+            "displayText": "2. 좋아하는 햄을 먹기위해 부대찌개 뒤적거리기"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 45,
+            "displayText": "3. 몸상태가 안좋으면 자기 몫의 반찬은 덜어먹는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n같이 먹는 사람의 속도를 맞춰주는 것의 매너입니다 ^_^\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [식사에서 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "1. 다른 사람들보다 빨리 먹고 먼저 일어나기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 118,
+            "displayText": "식사자리에서 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n뒤적거리는건 같이 먹는 사람들에게 매너가 아닙니다!\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [식사에서 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "2. 좋아하는 햄을 먹기위해 부대찌개 뒤적거리기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 118,
+            "displayText": "식사자리에서 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n네번째 문제도 잘 통과하셨네요^_^\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "3. 몸상태가 안좋으면 자기 몫의 반찬은 덜어먹는다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 46,
+            "displayText": "다음 문제 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "answer": "![조별과제](https://cdn.pixabay.com/photo/2016/03/31/23/41/classroom-1297779__480.png)\n\n_**Quiz 5.**_다음 중 조별과제 할 때 지켜야할 매너로 올바른 것은?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 47,
+            "displayText": "1. 본인이 맡은 역활 충실히 이행하기"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 48,
+            "displayText": "2. 학번 들이밀며 책임 전가하기"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 49,
+            "displayText": "3. 잠수복 쫙 빼입고 잠수타기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n다섯번째 문제도 잘 통과하셨네요^_^\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "1. 본인이 맡은 역활 충실히 이행하기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 53,
+            "displayText": "다음 문제 풀기 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n조별과제는 함께 하는 과제입니다. 본인이 맡은 역활에 대한 책임을 다 하세요!\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [조별과제 수행 중 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "2. 학번 들이밀며 책임 전가하기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 120,
+            "displayText": "조별과제 수행 중 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n조별과제는 함께 하는 과제입니다. 본인이 맡은 역활에 대한 책임을 다 하세요!\n\n.\n\n.\n\n찾아보면 좋은 예절 -> [조별과제 수행 중 지켜야 할 7가지 에티켓] 확인하려면 아래 버튼을 눌러주세요!!",
+      "source": "Editorial",
+      "questions": [
+        "3. 잠수복 쫙 빼입고 잠수타기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 120,
+            "displayText": "조별과제 수행 중 지켜야 할 7가지 에티켓"
+          }
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "answer": "궁금한 것을 예절을 물어봐주세요 ^^",
+      "source": "Editorial",
+      "questions": [
+        "생활 예절"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 51,
+      "answer": "상대방과의 관계가 상하관계이시군요. 이런 표현은 어떨까요?",
+      "source": "Editorial",
+      "questions": [
+        "상하관계"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 52,
+      "answer": "상대방과 동등 관계이시군요. 이런 표현은 어떨까요?",
+      "source": "Editorial",
+      "questions": [
+        "동등 관계"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 53,
+      "answer": "![조리원](https://cdn.pixabay.com/photo/2015/07/10/21/00/hospital-840135__480.jpg)\n\n_**Quiz 6.**_다음 중 조리원 방문 시 예의에 올바른 행동은?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 54,
+            "displayText": "1. 아이 외모 평가하기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 55,
+            "displayText": "2. 친구들과 수차례 방문하기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 56,
+            "displayText": "3. 아들, 딸 구분하지 않기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n아이가 엄마만 닮았겠어요? 아빠만 닮았겠어요? 잘 생각해보고 말해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "1. 아이 외모 평가하기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 119,
+            "displayText": "조리원 및 병실 방문 예절 더 알아보기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n심심할까봐 자주간다구요? 산모가 쉴 수 있는 시간을 산모에게 선물해주세요😀",
+      "source": "Editorial",
+      "questions": [
+        "2. 친구들과 수차례 방문하기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 119,
+            "displayText": "조리원 및 병실 방문 예절 더 알아보기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n아들이든 딸이든 산모에게는 소중한 자식입니다. 아들을 원했는데 딸을 낳았다고 타박한다면 안됩니다. 모두 사랑받아 마땅할 소중한 손주이고, 자식입니다^^\n\n.\n\n.\n\n여섯번문제도 잘 통과하셨네요\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "3. 아들, 딸 구분하지 않기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 57,
+            "displayText": "다음 문제 풀기 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "answer": "![친구](https://media.istockphoto.com/photos/family-gathering-picture-id1196170672?b=1&k=6&m=1196170672&s=170667a&w=0&h=hb38S4BCOkTX5NIs906mXS8UrybIIXHrA8iG9bVo9rI=)\n\n_**Quiz 7.** _동기(친구)간 예절에 어긋난 행동은?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 58,
+            "displayText": "1. 험담하지 않기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 59,
+            "displayText": "2. 친한 친구에게 돈 자주 빌리기 "
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 68,
+            "displayText": "3. 간사한 짓 하지 않기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n혹시 친구가 없는 자리에서 험담을 하며 희열을 느끼는 분들은 없으시겠죠?\n\n마음에 들지 않는 점이 있다면 직접 말하여 더 좋은 관계를 형성하도록 해요^^",
+      "source": "Editorial",
+      "questions": [
+        "1. 험담하지 않기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 57,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n돈을 빌렸으면 제 때 제 때 갚기!\n\n늦으면 늦는다 말하고 미리 말하기!\n\n친구간 돈거래는 중요하다는 말 어릴때부터 자주 듣죠?^^\n\n.\n\n.\n\n일곱번째 문제도 잘 통과하셨네요\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "2. 친한 친구에게 돈 자주 빌리기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 60,
+            "displayText": "다음 문제 풀기 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "answer": "![소주잔](https://t1.daumcdn.net/cfile/blog/99D6094F5A600D571C?original)\n\n_**Quiz 8.**_ **윗사람에게 술을 받을 때의 순서로 알맞은 것은?**\n\na. 윗사람 자리의 반대방향으로 얼굴을 돌린 후 마신다.\n\nb. 건배를 한다.\n\nc. 공손한 자세로 두 손으로 받는다.\n\nd. 다른 사람들이 잔을 내린 후 자신의 잔을 내린다.",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 61,
+            "displayText": "1. a-b-c-d"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 62,
+            "displayText": "2. c-b-a-d"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 67,
+            "displayText": "3. c-a-b-d"
+          }
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n술을 좋아하지 않아도 알아두면 좋은 예절이랍니다^^",
+      "source": "Editorial",
+      "questions": [
+        "1. a-b-c-d"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 60,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n역시 술고래!^^\n\n.\n\n.\n\n여덜번째 문제도 잘 통과하셨네요\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "2. c-b-a-d"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 63,
+            "displayText": "다음 문제 풀기 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "answer": "![안내견](https://media.istockphoto.com/photos/seeing-eye-dog-picture-id93394580?b=1&k=6&m=93394580&s=170667a&w=0&h=QmnbHYi5u7eo4Buo9sbBaD-ymSl30GbgNtD532vq5Xo=)\n\n_**Quiz 9.**_(시각 장애인 안내견)\n\n사람들 사이에 지켜야할 예의가 있듯, 안내견을 대할 때에도 예절이 필요합니다. 다음 중 옳지 않은 행동은 무엇일까요?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 64,
+            "displayText": "1.수고하는 안내견에게 음식이나 간식을 준다"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 65,
+            "displayText": "2.보행중인 안내견을 쓰다듬지 않는다."
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 66,
+            "displayText": "\n\n3.안내견을 부르지 않는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n지나가다가 아무리 안내견이 이쁘다고 하여도 쓰다듬거나 부르거나 음식을 주면 안됩니다!!",
+      "source": "Editorial",
+      "questions": [
+        "1.수고하는 안내견에게 음식이나 간식을 준다"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 115,
+            "displayText": "안내견을 봤을 때 꼭 지켜야하는 주의사항 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n지나가다가 아무리 안내견이 이쁘다고 하여도 쓰다듬거나 부르거나 음식을 주면 안됩니다!!\n\n대신, 주인에게 먼저 '만져도 되냐'라고 질문하여 주인의 허락하에 만져야 합니다.",
+      "source": "Editorial",
+      "questions": [
+        "2.보행중인 안내견을 쓰다듬지 않는다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 115,
+            "displayText": "안내견을 봤을 때 꼭 지켜야하는 주의사항 "
+          }
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "answer": "![정답](https://t1.daumcdn.net/liveboard/maxim/0c1314afc73c4b51a58ed1f7e3625246.jpg)\n\n**tip)** 안내견이 버스정류장에서 버스를 기다리고 있다면 대기중인 버스 번호를 알려주면 정말 큰 도움이 된다고 합니다! 또 개는 색맹이 있기에 신호등이 바뀌었을때 안내견에게 말해주면 큰도움 이 된답니다!\n\n.\n\n.\n\n아홉번째 문제도 잘 통과하셨네요\n\n다음 문제를 풀고싶다면 \"**다음 문제 풀기**\"를 선택해주세요!",
+      "source": "Editorial",
+      "questions": [
+        "3.안내견을 부르지 않는다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 69,
+            "displayText": "다음 문제 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "answer": "![떙](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n술을 좋아하지 않아도 알아두면 좋은 예절이랍니다^^",
+      "source": "Editorial",
+      "questions": [
+        "3. c-a-b-d"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 60,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n본인 유리한 쪽으로 간에 붙었다 쓸개에 붙었다 하는 분들!\n\n더 나은 사람 찾기보다 더 나은 사람이 되도록 해요^^",
+      "source": "Editorial",
+      "questions": [
+        "3. 간사한 짓 하지 않기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 57,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "answer": "![네티켓](https://media.istockphoto.com/photos/hacker-working-on-laptop-in-the-dark-picture-id1152537185?b=1&k=6&m=1152537185&s=170667a&w=0&h=3e-zwFpXMXRhziZ--5gOQ4RamrM00PVtyLPuG4HPhWU=)\n\n_**Quiz 10.** _인터넷 공간에서 범죄라고 불리는 악성댓글 또한 21세기에 들어 심각한 문제 입니다.인터넷 예절(네티켓)에 대해 올바른 행동은 무엇일까요?",
+      "source": "Editorial",
+      "questions": [
+        "다음 문제 풀기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 70,
+            "displayText": "1. 객관적 근거가 없는 비방/험담을 한다."
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 71,
+            "displayText": "2. 익명의 공간이니 타인에 대해 자유롭게 평가한다."
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 72,
+            "displayText": "3. 상대방을 비방하거나 욕하는 댓글을 달지 않는다."
+          }
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "answer": "![땡](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n비난과 비판의 차이를 알아야 하며 두 단어는 근본부터가 매우 다릅니다! 상대방에게 단순히 마음에 들지 않아 비난성 댓글을 작성하고 악플이 아니라고 주장하는 것은 '술은 마셨지만 음주운전은 하지 않았다'라고 말하는 거와 같습니다^^",
+      "source": "Editorial",
+      "questions": [
+        "1. 객관적 근거가 없는 비난/험담을 한다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 111,
+            "displayText": "네티켓의 10대 원칙 알아보기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "answer": "![떙](https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201310/19/osen/20131019214903884.jpg)\n\n**땡!!**\n\n익명성이 보장되는 공간이어도 서슴없이 남에게 욕성과 비방을 하는 것은 비겁하고 매너없는 행동입니다!\n\n익명의 공간에서 말을 하기전에 예쁜 말로 순화하는 노력을 해보도록 해요^^",
+      "source": "Editorial",
+      "questions": [
+        "2. 익명의 공간이니 타인에 대해 자유롭게 평가한다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 111,
+            "displayText": "네티켓 10대 원칙 알아보기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "answer": "![ㅁ](https://media.istockphoto.com/photos/the-best-picture-id157314672?b=1&k=6&m=157314672&s=170667a&w=0&h=qxARmi-fpLsJjU1Gdt9nF6uRWdwaR-pDILEegqhwLGI=)\n\n수고하셨습니다^_^\n\n당신의 매너등급은 A+!!",
+      "source": "Editorial",
+      "questions": [
+        "3. 상대방을 비방하거나 욕하는 댓글을 달지 않는다."
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 101,
+      "answer": "A. 보통 상견례는 예비부부의 직계 가족이 모이는 자리입니다. 할머니, 할아버지와 함께 살거나 특별한 경우가 아니라면 부모님, 본인, 형제&자매가 참석합니다. 상견례 일정을 양가 가족이 모두 모이는 날이 좋지만, 그렇지 않다면 양가 부모님이 모두 되는 날을 우선으로 선택하세요. 상대방 가족 수와 비슷하게 맞추는 게 좋습니다.",
+      "source": "https://m.blog.naver.com/plaza_wed/220869303468",
+      "questions": [
+        "Q. 상견례 참석 인원은 어디까지인가요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 102,
+      "answer": "A. 상견례를 마쳤다면 본격적으로 결혼식을 준비해야 합니다. 양가 부모님의 의견을 전달받아 구체적으로 결혼 계획을 세우세요. 보통 예비 신부 쪽에서 예비 신랑 사주를 받아 좋은 날짜를 받아오면 그 날짜 전후로 결혼 날을 정합니다. 상견례 후 최대 6개월 이내로 결혼하는 게 일반적입니다. 친척 호칭 ⓒ네이버 TV캐스트 우리말나들이",
+      "source": "https://m.blog.naver.com/plaza_wed/220869303468",
+      "questions": [
+        "Q. 상견례를 마쳤습니다. 이후 순서는 어떻게 되는 거죠?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 103,
+      "answer": "A. 예비부부는 양가 어른들께 어머님, 아버님이라고 불러주세요. 양가 아버님의 나이가 비슷하다면 사돈, 차이가 많다면 사돈어른이라고 부릅니다. 양가 어머님은 나이가 비슷하다면 사부인, 차이가 많다면 안사돈 어른 이라고 불러요. 할아버지, 할머니까지 나왔다면 사장어른, 안사장 어른이라는 호칭을 사용해야 합니다. 그 외 형제&자매는 사돈총각, 사돈아가씨, 사돈처녀 등의 호칭으로 불러주세요",
+      "source": "https://m.blog.naver.com/plaza_wed/220869303468",
+      "questions": [
+        "Q. 상견례자리에서 호칭을 어떻게 해야 하죠?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 104,
+      "answer": "A. 상견례는 양가 부모님이 처음 얼굴을 보고 인사를 하는 자리입니다. 우선 분위기가 자연스러워질 수 있도록 예비부부가 이야기 주제를 이끌어내세요. 사전에 양가 부모님의 관심사를 파악해 전달해 놓으면 분위기가 쉽게 풀어질 겁니다. 자기 가족 이야기보다는 상대방 가족에 대한 칭찬을 아낌없이 해주세요. 결혼식에 대한 얘기는 깊게 나누는 것보다 대략적인 결혼식 시기와 신혼집 마련 장소 등만 하는 게 좋습니다. 예단이나 혼수 등에 대해서는 추후 예비 신랑, 신부를 통해 전달하세요.",
+      "source": "https://m.blog.naver.com/plaza_wed/220869303468",
+      "questions": [
+        "Q. 어떤 이야기를 해야 할까요? 결혼식 일정을 논의해도 되나요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 105,
+      "answer": "상견례 선물은 양가에서 미리 논의해서 준비 여부를 결정합니다. 상견례 선물 대신 식사를 거하게 하는 가족도 있고, 작게 준비하는 가족도 있습니다. 선물을 준비한다고 결정했다면 과한 선물은 상대방이 부담스러워할 수 있어요. 양가가 비슷한 예산 안에서 작게 준비하는 게 보통입니다. 떡 케이크, 차, 넥타이, 스카프 등 간단한 선물과 마음이 담긴 편지라면 충분해요.\n\n예비부부의 결혼 시작이 되는 상견례. 간단히 인사하는 자리라고 생각할 순 없겠죠? 내 가족보다 상대방의 가족이 듣고 싶은 이야기가 뭘까 고민해보면 대화 주제도 쉽게 나올 거예요. 평소보다 조금 더 꼼꼼하게 준비하고 예의 있게 행동하면 '성공한 상견례'가 될 수 있을 겁니다.",
+      "source": "https://m.blog.naver.com/plaza_wed/220869303468",
+      "questions": [
+        "Q. 상견례 선물이 꼭 필요한가요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 106,
+      "answer": "![Img 15953](https://t1.daumcdn.net/cfile/tistory/275FBB35517F949535)\n\n<출처: KBS 직장의 신>\n\n미소를 부르는 그 행복한 결혼식에 눈살을 찌뿌리게 하는 밉상, 진상들도 존재합니다. 신랑신부의 행복한 날을 축복하기 위해서는 마음 뿐 아니라 지켜야 할 에티켓도 많습니다. 행복한 결혼식을 위한 개념 하객의 **결혼식장 에티켓 7가지** 알려드립니다.\n\n**▶1. 늦어도 30분 전에 예식장에 도착해서 축하해주세요!**\n\n시간을 지키는 것은 상대방에 대한 배려이자 기본 중의 기본! 결혼식에 늦어 신랑신부의 입장도 놓치고 예식의 절반만 보고, 식사만 하고 오면 안 되겠죠. **최소 30분 전에 미리 예식장에 도착**하도록 하세요. 미리 도착해서 신랑신부와 인사도 나누고 사진도 찍으며 기쁜 마음을 나누며 진심으로 축하해주세요. 오랜만에 만나는 지인들과도 이야기를 나누며 식전에 즐거운 분위기를 만들어주면 좋답니다.\n\n**▶ 축의금은 미리 봉투에 담아오는 센스!**\n\n얼마 전 한 리서치에 따르면 축의금 평균이 6만원이라고 하지요. 청첩장을 고지서라 하는 요즘, 살짝~ 아까운 마음이 들기도 하는데요. 그래도, 축의금은 정성스럽게 전달해야겠지요? 축의금을 봉투에 넣고 봉투 뒤쪽에 이름을 세로로 적습니다. 축의금을 낼 때, 혼주분들에게 축하한다는 말을 건네며 진심을 다해 축하해주세요~!\n\n**▶2. 관계 없는 지인의 동행은 자제해주세요!**\n\n결혼식은 식장을 가득 메울 정도로 많은 사람들이 축하해줘야 한다? 소박하고 자유로운 결혼식이 유행하면서 점점 옛말이 되어가는 듯 해요. 청첩장을 받았을 때, 신랑신부나 그들의 가족과 **관계없는 지인들까지 일부러 결혼식에 데려가는 것은 삼가**는 것이 좋습니다.\n\n![Img 15954](https://t1.daumcdn.net/cfile/tistory/2143E735517F5F1531)\n\n<출처: MBC 넝쿨째 굴러온 당신>\n\n결혼식은 모두가 모이는 자리인 만큼, 새로운 친구나 연인 등 지인을 다른 사람에게 소개시키거나 자랑을 하기 위해 처음으로 결혼식 자리에 동행하려는 계획을 가질 수도 있어요. 하지만 결혼식은 신랑신부 두 사람을 위한 날이니 당일 소개하는 일은 자제하는 편이 좋아요. 만약 예식장이 지정석으로 진행되는 경우, 예상 외의 하객으로 인해 자리가 엉킬 수도 있는데요. 고가의 피로연 식사 시 축의금과 수지타산이 맞지 않는다면 신랑신부에게 부담이 될 수 있습니다.\n\n**▶ 그래도 무조건 지인과 함께 가야 한다면!**\n\n신랑신부에게 미리 누구와 함께 가겠다고 말해두고 동의를 구하도록 하세요. 어색함도 사라지고 함께 축하하면서 화기애애한 결혼식 분위기를 만들 수 있겠죠?\n\n**<<결혼식장 예절을 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "https://www.lifentalk.com/335",
+      "questions": [
+        "개념하객이 말하는 결혼식 에티켓 7가지"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 30,
+            "displayText": "Quiz1.다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 107,
+      "answer": "결혼식 시작 전, 예식장은 신랑신부 지인과 가족들로 가득 찹니다. 모두가 신부의 미모에 감탄하고 있던 와중, 마치 오늘을 기다려온 사람처럼 하얀 옷으로 화려하게 치장한 모두의 시선을 집중시킨 여인이 등장합니다. 화려한 옷과 밤새 치장한 듯 보이는 머리카락에 메이크업, 온갖 액세서리까지! 예쁘게 보이고 싶었던 마음이 지나쳐 너무 튀는 모습은 주변 사람들을 불쾌하게 만들었죠. 여긴 결혼식장이지 패션쇼가 아니라고요!\n\n![Img 15955](https://t1.daumcdn.net/cfile/tistory/250EA245517F61271B)\n\n<출처: SBS 신기생뎐>\n\n결혼식의 주인공은 웨딩마치를 올리는 신랑과 신부죠! **하객의 옷차림은 결혼식에 대한 예의와 축하의 마음을 표현**한다고 할 수 있습니다. 여자 하객의 경우 **신부보다 튀지 않는 옷차림**을 갖는 것이 중요한데요. 오늘의 주인공인 신랑신부를 위해 그들을 돋보이게 만들어줘야 합니다.",
+      "source": "https://www.lifentalk.com/335",
+      "questions": [
+        "▶3. 흰색 옷을 입은 사람이 두 명? 신부는 대체 누구!?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 108,
+      "answer": "즐거운 자리인 만큼 의상은 화사하고 밝은 것을 입는 것이 좋지만, 특히 **흰색은 주인공인 신부의 고유색**이니 피하도록 해요. 세미 캐주얼이나 재킷과 같은 단정하고 편안한 마무리를 짓는 것이 좋습니다. 그렇다고 지나치게 편한 캐주얼 차림은 예의가 아니겠죠?\n\n**▶결혼식장에서 험담은 절대로 하지 마세요!**\n\n화기애애한 분위기 속에 시작되는 결혼식! 신랑신부의 입장과 함께 박수소리도 점점 커져만 갔어요. 그런데 옆에 있던 사람들이 속닥이는 목소리가 들립니다.\n\n\"신부가 생각보다 별로네~”\n\n“신랑이 너무 노안인걸?”\n\n신랑신부를 이전부터 지켜보며 사랑의 결실을 맺은 그들을 축하하고 있었지만, 몇몇 염치없는 하객들의 이야기에 속이 상합니다. 바로 한 마디 하고 싶었지만 행여 식을 망칠까 봐 마음 속으로 화를 가라앉힙니다.\n\n![Img 15956](https://t1.daumcdn.net/cfile/tistory/03093045517F63A930)\n\n<출처: KBS 직장의 신>\n\n외모로 사람을 평가하는 것부터 재산, 과거사 등 결혼식에서는 삼가야 할 말이 있습니다. 결혼식에선 신랑 신부와 가까운 많은 사람들이 오는 만큼, **여러 사람들의 귀가 모여 있는 자리**이기 때문이죠. 무심결에 던진 한 마디 말을 주변의 하객 누군가가 들을지도 모를 일입니다. 결혼을 축하하는 자리인 만큼 좋은 말, 예쁜 말만 나누도록 해요",
+      "source": "https://www.lifentalk.com/335",
+      "questions": [
+        "▶ 결혼식장 하객 옷차림 에티켓은?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 109,
+      "answer": "신부에게 예쁘다는 칭찬을 많이 해주세요. 여성들에게 있어 웨딩드레스는 ‘일생 중 가장 아름다운 모습’이라는 말이 있듯이, 그 순간을 마음껏 만끽할 수 있도록 고운 말, 예쁜 말을 많이 전해주세요.\n\n**▶결혼식이 진행되면 수다는 금물!**\n\n결혼식장은 오래된 지인이나 반가운 사람들이 한 곳에 모이는 자리이기도 합니다. 서로 인사를 하며 그간의 이야기들을 나누면서 시간 가는 줄 모르는데요. 간혹 반가움이 지나쳐 결혼식 중에도 수다가 계속되는 경우도 있습니다. 결혼식이 진행되는 내내 웃고 떠드는 소리에 신랑신부의 혼인 서약이나 주례사는 들리지도 않고~ 여긴 카페가 아니라 결혼식장이라고요!\n\n![Img 15957](https://t1.daumcdn.net/cfile/tistory/224BF844517F64B10F)\n\n<출처: SBS 청담동앨리스>\n\n여러 번 강조해도 부족하지 않은 이야기! **오늘의 주인공이 신랑신부라는 사실**을 잊은 건 아니신가요? 어떤 노래의 가사처럼 입장 바꿔 생각해 보세요. 만약 본인의 결혼식에 친구들이 와서 결혼식은 아랑곳 하지 않고 떠들기만 한다면, 소중한 친구 및 하객들이 밉상으로 보이겠죠! 상대방의 입장에서 생각하고 밀린 이야기는 뒷풀이, 혹은 동창회에서 즐기세요!",
+      "source": "https://www.lifentalk.com/335",
+      "questions": [
+        "▶ 예식장에서 꼭 해야 하는 말이 있다면?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 110,
+      "answer": "먼저 누구보다 열정적으로 박수를 쳐줘야 할 때 힘껏 쳐주세요. 또한, 뒷좌석에서 하객들과 이야기를 나누지 말고 최대한 앞에 앉아 지켜보며 행복을 빌어주도록 해요.\n\n**▶우리는 하객이지 식객이 아니라고요~!**\n\n축의금을 내고 식장 안이 아닌 피로연장으로 발걸음을 향하는 사람들! 결혼식장 하객이 레스토랑의 식객으로 바뀌는 순간이지요. 이런 유형의 하객들은 대부분 \"밥 먹고 사진 찍을 때 다시 올게\"라는 말을 남기곤 유유히 사라집니다. 그야말로 불청객이 따로 없는 셈이죠! 아무리 밥이 중요하다지만 **결혼식을 지켜보며 축하한 이후에 식사**를 해도 늦지 않겠죠. 최소한의 예의는 지키도록 해요!\n\n**▶ 금강산은 식후경, 결혼식은 그 반대!**\n\n신랑, 신부에게 눈도장만 찍고 피로연장으로 직행하는 것은 NO! 식사는 예식이 모두 끝난 뒤에 즐기도록 해요. 그리고 예식이 끝난 뒤 친구 및 직장동료와 함께 갖는 포토타임엔 꼭 촬영에 임해서 한 폭의 그림 같은 사진을 만들어가요!\n\n**▶지나친 카메라 촬영은 방해요인이 될 수 있어요!**\n\n너~무나도 편리해진 모두의 필수품 스마트폰! 이를 활용해서 사진, 동영상을 촬영하는 하객들도 많이 보입니다. 하지만 결혼식이 진행되는 동안, 박수소리보다 더 큰 카메라 셔터소리! 찍은 사진들을 SNS에 공유하면서 결혼을 축하해주러 온 것인지, 결혼식 인증샷을 찍으러 온 것인지 구분이 가지 않습니다.\n\n![Img 15958](https://t1.daumcdn.net/cfile/tistory/016B6843517F65352E)\n\n<출처: MBC 무한도전>\n\n결혼식장에선 지나친 사진촬영은 자제하는 편이 좋습니다. 카메라를 촬영하면서 울리는 셔터소리는 물론이고 결혼식을 지켜보는 **다른 하객들의 시선을 방해할 수 있기 때문**이지요. 또 신랑신부에게 미리 동의를 받지 않은 상태에서 마음대로 사진을 찍는 것은 예의가 아니랍니다. 단 하객 기념사진을 찍을 때는 거부하지 않고 찍는 편이 좋아요.\n\n**▶ 사진 촬영도 타이밍!**\n\n예식 장면을 촬영하고 싶다면, 하객들이 꽉 찬 테이블을 벗어나 눈에 잘 띄지 않는 바깥쪽에서 찍도록 하세요. 셔터음은 최대한 줄이는 것은 필수! 무엇보다도 플래시가 켜져 주변 하객들의 시선을 가득 받아선 안되겠죠?\n\n여기저기서 들려오는 결혼소식에 축하하는 마음도 덩달아 UP! 하지만 기쁜 마음을 주인공인 신랑신부가 아닌 다른 부분에 쏟는 것은 다소 예의에 어긋난 행동이지요. 깔끔한 에티켓으로 신랑신부 및 주변 하객들에게 눈도장을 쾅~! 찍어보세요. 주변의 인식과 평판은 물론이고 결혼식도 신랑신부 못지않은 행복감도 느낄 수 있을 테니까요",
+      "source": "https://www.lifentalk.com/335",
+      "questions": [
+        "▶ 결혼식 중 지켜야 할 하객의 기본 자세는?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 111,
+      "answer": "네티켓에 대해 더 알아볼까요? 😮\n\n1.  가상공간에서 만나는 상대방이 사람임을 기억하여야 합니다.\n2.  실제 생활에서 적용된 것과 같은 기준과 행동을 고수하여야 합니다.\n3.  현재 자신이 어떤 곳에 접속해 있는지 알고, 그곳 문화에 어울리게 행동하여야 합니다.\n4.  다른 사람의 시간을 존중하여야 합니다.\n5.  온라인상의 당신 자신을 근사하게 만들어야 합니다.\n6.  전문적인 지식을 공유하여야 합니다.\n7.  논쟁은 절제된 감정 아래 행하여야 합니다.\n8.  다른 사람의 사생활을 존중하여야 합니다.\n9.  당신의 권력을 남용하지 말아야 합니다.\n10.  다른 사람의 실수를 용서하여야 합니다.\n\n출처 : 미국 플로리다대학교의 버지니아 셰어 교수가 제시한 '네티켓의 핵심원리'\n\n.\n\n**<<네티켓에 대해 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "Editorial",
+      "questions": [
+        "네티켓 더 알아보기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 69,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "answer": "자동차 경적 소리는 메이커마다, 차량마다 각기 소리가 다르지만 법적으로 정해진 기준으로 만족해야합니다.\n\n소리가 너무작으면 다른 차량 또는 보행자와 소통하지 못해 사고가 일어날 수 있으며, 반대로 소리가 너무 크면 보행자들에게 극심한 스트레스를 가져다 줄 수 있기 때문에 적당한 경적소리의 기준을 법으로 정해놓고 있습니다.\n\ntip) 자동차의 경적 소리는 90데시벨 이상, 110~112데시벨 이하로 만들어집니다.",
+      "source": "Editorial",
+      "questions": [
+        "자동차 경적소리의 소음과 규제는?",
+        "경적소리의 규제는?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 114,
+      "answer": "앞 차량이 내 차를 못보고 끼어들기를 하려고 할 때\n\n주변 차량이 졸음 운전을 하고 있을 때\n\n보행자가 내 차를 못보고 나왔을 때\n\n추월하면서 내 차의 존재를 알릴 때\n\n좁은 커브길에서 시야가 확보되지 않을 때\n\n내 차에 문제가 있을 때\n\n.\n\n**<<경적 에티켓을 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "Editorial",
+      "questions": [
+        "경적을 울리기 위한 적절한 상황은?",
+        "경적은 언제 울려야 하나요?\n\n"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 34,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "answer": "시각장애인 안내견을 만났을 때 지켜야할 주의사항을 알아볼까요? 😉😎\n\n![dog](https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg?cs=srgb&dl=pexels-2253275.jpg&fm=jpg)\n\n1.  안내견에게 말을 걸거나 접촉하는 것을 피해주세요.\n2.  안내견에게 함부로 먹을 것을 주지마세요.\n3.  안내견과 시간장애인이 함께 횡단보도를 건널 때는 꼭 신호를 준수해주세요.\n4.  안내견이 다른 강아지를 만났을 때 주의해주세요.\n5.  안내견과 함께 공공장소에 출입하는 행위는 불법이 아님을 인지해주세요.\n6.  시각장애인께 도움을 드리고 싶다면 오른쪽에 서주세요.\n7.  안내견 훈련 중인 강아지들도 있습니다.\n\n###### 출처 : https://m.blog.naver.com/PostView.nhn?blogId=bon24amc&logNo=221091733945&proxyReferer=https:%2F%2Fwww.google.com%2F\n\n.\n\n**<<안내견에 대한 에티켓을 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "Editorial",
+      "questions": [
+        "안내견을 봤을 때 꼭 지켜야하는 주의사항 "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 63,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "answer": "**1. 1차로 길막은 위험해요**\n\n고속도록에서 1차로는 추월 차로입니다.\n\n차가없어도 주행을 할 수 없고 추월 후 바로 본인 차량에 맞는 차로로 옮겨야 합니다.\n\n지정차로제 간소화 시행으로 정체로 인해 시속 80km/h이하로 운행 할 경우 1차로 주행이 가능합니다. 단, 위반시 과태료가 부과됩니다.\n\n**2.지정 차로도 잊지 마세요**\n\n4차로 고속도로 기준, 차로별 통행 차량이 다릅니다.\n\n왼쪽 차로는 승용차와 승합차 오른쪽 차로는 대형, 화물, 특수, 건설기계 차량만\n\n통행 가능합니다.\n\n**3.갓길 통행은 안됩니다.**\n\n갓길은 긴급차량이나 사고차량을 위한 길이므로 사고 확률이 높아 각별한 주의가 필요합니다.\n\n차를 세워놓고 잠을 자거나, 교통체증을 피해 주행하는 용도로 사용하지 마세요\n\n**4.졸음운전은 삼가해주세요**\n\n무거운 눈꺼풀을 한 번 깜박였다간 대형사고가 발생할 수도 있습니다.\n\n2시간 운전 후엔 10분 이상 휴식을 취하거나 졸음 쉼터와 휴게소를 이용하는 것도 좋습니다.\n\n**5.너무 느린 주행도 안됩니다.**\n\n고속도로는 규정속도 100km/h에 맞춰 주행해야 합니다.\n\n규정 속도보다 천천히 갈 경우 터널이 끝나는 지점이나 합류지점 등에서 사고가 발생할 수 있기 때문입니다.\n\n**6.앞차와 안전거리 유지는 필수입니다.**\n\n위험상황에 대비하기 위해 앞차와 100m 이상의 안전거리 확보는 선택이 아닌 필수입니다.\n\n**7.사고현장 구경은 삼가해주세요**\n\n사고 현장을 구경하기 위해 서행하거나 멈추면 2차 사고를 유발할 수 있습니다.사고 현장은 가급적 빨리 벗어 나는 것이 현장 수습은 물론 원활한 교통상황에도 도움이 됩니다.\n\n**<<고속도로에서 에티켓을 숙지했다면 다시 풀어볼까요? >>**",
+      "source": "Editorial",
+      "questions": [
+        "고속도로에서 지켜야할 에티켓 7가지는?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 34,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 117,
+      "answer": "**1. 되도록 검은색 계열 옷 입어주세요.**\n\n남성과 여성 모두 장례식장에 갈 때 검은색 계열의 옷을 입는 것이 기본적인 예절입니다.\n\n.\n\n**2. 조문순서를 잊지 마세요.**\n\n단계별로 방명록 서명, 분향 또는 헌화, 재배, 조문, 부의금 전달, 식사 이렇게 6단계로구성되어 있습니다.\n\n_방명록 서명 및 부의금 전달 -> 분향과 헌화 -> 재배 -> 조문 -> 퇴장_\n\n.\n\n**3. 오래간만에 상주를 봤다고 근황을 묻지 말아주세요**\n\n.\n\n**4. 고인의 사망 원인에 대해 자세히 묻지 말아주세요**\n\n상주, 유족에게 아픈 기억을 다시 떠올리게 합니다. 상주가 먼저 이야기를 꺼내는 것은 상관 없지만 문상객이 먼저 이야기를 꺼내면 안됩니다.\n\n.\n\n**5.호상이라고 함부로 말하지 않습니다.**\n\n호상은 '적절히 잘 돌아가셨다'라는 뜻이지만 실제로 호상이라고 하더라도 유족에게는 가족을 잃는 것입니다.\n\n.\n\n**6. SNS에 인증샷 올리지 않기**\n\n.\n\n**7. 식사하며 웃고 떠들며 건배하지 않기**\n\n건배는 즐거운 장소에서 외치는 것입니다.\n\n**<<장례식장에서 지켜야 할 에티켓을 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "Editorial",
+      "questions": [
+        "장례식장에서 지켜야할 에티켓 7가지는?  "
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 38,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 118,
+      "answer": "![meal](https://images.pexels.com/photos/1528013/pexels-photo-1528013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)\n\n**1. \"쩝쩝\", \"짭짭\" 소리내지 말아주세요.**\n\n음식을 먹으면서 불쾌한 소리를 내거나 말을 하면 식욕이 떨어질 수 도 있습니다.\n\n**2. 상대방의 시각도 생각해주세요.**\n\n식사를 하면서 입 안의 풍경을 극심하게 노출한다거나 코를 푸는 등의 행위는 자제해주세요.\n\n또한, 뜨거운 음식을 불 떄 상대방 쪽으로 불어서 먹는 행위도 예의에 어긋납니다.\n\n**3. 식탁에 팔을 기대고 먹지 말아주세요.**\n\n혼자가 아닌 여럿이 식사하는 경우 옆사람을 생각해주세요.\n\n**4. 상대의 식사 속도에 맞춰주세요.**\n\n상대가 다 먹을 때까지 끝까지 기다려주며 부담을 주지 않도록 해요.\n\n**5. 선배나 선임자가 밥을 사주는 경우 일반적으로 호의를 받는 것이 좋으며 본인 역시 후배가 생기면 베푸는 것이 우리나라 문화에서는 비일비재합니다.**\n\n**6. 반찬을 숟가락이나 젓가락으로 이리저리 뒤적이거나 집었다 놨다하는 행동을 삼가해주세요.**\n\n**7. 일반적으로 식사 중에 대화를 할 때에는 정치나 종교, 성과 관련된 이야기는 삼가해주세요.**\n\n**>**",
+      "source": "Editorial",
+      "questions": [
+        "식사자리에서 지켜야 할 에티켓 7가지는?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 42,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 119,
+      "answer": "조리원 및 병실 방문 예절을 알아볼까요?👍\n\n1.  손 깨끗이 씻기\n2.  병실에 우르르 몰려가지 않기\n3.  아이의 외모 평가 하지 않기\n\n**<<조리원에서 지켜야 할 에티켓을 숙지했다면 다시 풀어볼까요?>>**",
+      "source": "Editorial",
+      "questions": [
+        "조리원 및 병실 방문 예절 더 알아보기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 53,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 120,
+      "answer": "![teamwork](https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500)\n\n1. 늦더라도 단톡방 답장은 보내주세요.\n\n2. 조별 모임시간, 자료제출 시간 약속 지켜주세요.\n\n3. 자료는 최신 버전으로 조사해주세요.\n\n4. 인터넷에 떠도는 복붙 자료는 삼가해주세요.\n\n5. PPT담당을 했다면 디자인은 깔끔하게 만들어주세요.\n\n6. 발표 담당이라면 단정한 옷차림과 연습은 기본입니다.\n\n6. 다른 팀원에게 자신의 임무를 떠넘기지 않도록 해요.\n\n<<조별과제 수행 중 지켜야 할 에티켓을 숙지했다면 다시 풀어볼까요?>>",
+      "source": "Editorial",
+      "questions": [
+        "조별과제 수행 중 지켜야 할 에티켓 에티켓 7가지는?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 46,
+            "displayText": "다시 풀기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 122,
+      "answer": "![애니](https://media.istockphoto.com/photos/happy-black-girl-enjoying-while-watching-cartoons-on-touchpad-at-home-picture-id1143897725?b=1&k=6&m=1143897725&s=170667a&w=0&h=jl-yPGkcMG6yAFdlwx1LjIpC_5pAyw1IvQqMJCYtF-0=)\n\n무엇이든지 어릴 때 들인 습관은 쉽게 고쳐지지 않는다고 하였습니다.^_^\n\n더불어 살아가기 위해 필요한 공공예절을 애니메이션으로 아이들이 흥미와 관심을 가지고 배울 수 있도록 하였습니다.",
+      "source": "Editorial",
+      "questions": [
+        "아이들에게 매너심어주기"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 123,
+            "displayText": "식사예절에 대해 알아볼까요?"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 124,
+            "displayText": "공공장소 예절에 대해 알아볼까요?"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 125,
+            "displayText": "친구간 예절을 알아볼까요?"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 126,
+            "displayText": "교통 예절을 알아볼까요?"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 127,
+            "displayText": "사이버 예절을 알아볼까요?"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 128,
+            "displayText": "설날 예절에 대해 알아볼까요?"
+          }
+        ]
+      }
+    },
+    {
+      "id": 123,
+      "answer": "![식사](https://cdn.pixabay.com/photo/2016/06/15/18/16/family-1459588__480.png)\n\n### **식사예절😀😉**\n\n1.  식사하기 전에 손을 깨끗이 씻습니다.\n2.  바른자세로 앉고 손으로 집어먹으면 안됩니다.\n3.  식사도중 돌아다니거나 음식을 입에 물고 말을 하면 안됩니다.\n\n식사예절을 애니메이션으로 더 알아볼까요?\n\n[애니메이션 보기](https://youtu.be/buhaAnQ1Jbs)",
+      "source": "Editorial",
+      "questions": [
+        "식사예절에 대해 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 124,
+      "answer": "![ㅇ](https://cdn.pixabay.com/photo/2016/12/03/05/27/comics-1879123__480.jpg)\n\n### **공공장소 예절**\n\n👍지하철에서\n\n1.  큰소리로 떠들지 않기\n2.  한사람이 여러자리 차지 하지 않기\n3.  음악을 큰소리로 틀지 않기\n\n👍줄을 설 때\n\n1.  차례를 지키기\n2.  뛰어다니지 않기\n\n공공장소 예절에 대해 영상으로 더 알아볼까요??\n\n[애니메이션 보기](https://youtu.be/_XqrmX56hQU)",
+      "source": "Editorial",
+      "questions": [
+        "공공장소 예절에 대해 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 125,
+      "answer": "![친구](https://cdn.pixabay.com/photo/2014/10/31/17/41/dancing-dave-minion-510835__480.jpg)\n\n### **친구간에 꼭 지켜야할 예절**\n\n1. 친한 사이에도 바른 말, 고운 말을 사용한다.\n\n2. 시비를 건다거나 싸움을 하는 일이 없도록 한다.\n\n3. 잘한 일은 칭찬해 주고, 잘못한 일은 스스로 고치도록 돕는다.\n\n4. 친구의 일도 내 일처럼 걱정해 주고 돕는다.\n\n5. 친구 간에 한 약속은 꼭 지킨다.\n\n친구간의 다른 예절은 애니메이션으로 확인해볼까요?\n\n[애니메이션 보기](https://youtu.be/dmp9RRWIAHo)",
+      "source": "Editorial",
+      "questions": [
+        "친구간 예절을 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 126,
+      "answer": "![교통](https://cdn.pixabay.com/photo/2016/09/23/14/29/police-1689820__480.jpg)\n\n### **교통 예절 알아보기**\n\n1.  자동차 근처에서 놀지 않기 = 운전자의 사각지대를 조심해야해요.\n2.  차 안에서는 안전벨트를 착용하기\n3.  버스안에서 장난치지 않기\n\n교통 예절을 영상으로 더 알아볼까요? 😮\n\n[애니메이션 보기](https://youtu.be/M8rZ_U4XM2Q)",
+      "source": "Editorial",
+      "questions": [
+        "교통 예절을 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 127,
+      "answer": "![사이버](https://cdn.pixabay.com/photo/2016/10/10/01/09/social-media-1727458__480.jpg)\n\n### **사이버 예절에 대해서 알아볼까요?**\n\n**① 누구라도 사이버폭력에 노출될 수 있습니다.**\n\n​자신이 사이버폭력의 피해자가 되어서도 안되지만, 무심코 한 행동이 다른 사람에게 피해를 주는 것은 아닌지 항상 신중하게 생각해야 합니다.\n\n**② 사이버상에서는 정직하고 당당하게 행동합니다.**\n\n자신을 숨기며 다른 사람인 척 활동하지 않고, 익명성을 이용하여 거짓 또는 허위 사실을 유포하지 않습니다.\n\n**③ 나와 다른 사람의 개인정보를 소중하게 생각합니다.**\n\n사이버상에서 개인정보가 유출될 경우 빠르게 유포되고, 악용될 수 있으므로 불필요하게 나와 다른 사람의 개인정보를 공개하지 않습니다.\n\n**④ 올바른 사이버 언어습관과 사이버 예절을 지킵니다.**\n\n바른 말씨와 고운 표현을 사용하고 상대방을 존중하는 태도를 가집니다. 내 말과 행동 때문에 상대방이 기분 상했다면 바로 사과합니다.\n\n**⑤ 타인의 정보에 대해서는 반드시 미리 동의를 구합니다.**\n\n글, 사진, 동영상 등을 사이버상에 올리기 전에 반드시 관련된 사람들에게 미리 동의를 구해야 합니다. 또한, 동의하지 않은 자료는 사이버상에 올려서는 안됩니다.\n\n다른 사이버 예절은 재미있는 애니메이션으로 확인해볼까요?\n\n[애니메이션 보기](https://youtu.be/C0ttMX3p5so)",
+      "source": "Editorial",
+      "questions": [
+        "사이버 예절을 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    },
+    {
+      "id": 128,
+      "answer": "![설](https://cdn.pixabay.com/photo/2019/01/16/07/42/new-years-day-3935457__480.png)\n\n### **명절 필수! 설날에 지켜야할 예절**\n\n**어른에게 인사하기!**\n\n어른들이 모인 집을 방문하거나 혹은 어른이 찾아왔을 때 \"안녕하세요\"라고 인사하는 것이 설 명절 예절의 기본이랍니다!\n\n**세배하기!**\n\n남자는 동쪽, 여자는 서쪽방향에 서서 여자는 오른손을 위에 남자는 왼손을 위에 올린 후 왼쪽 무릎을 먼저 꿇고 그 다음 오른쪽 무릎을 꿇어서 절을 하시면 된다구요~!\n\n**식사예절!**\n\n어른이 먼저 수저를 들기 전에 먼저 숟가락이나 젓가락을 들면 안 된답니다~\n\n그리고 음식이 입에 있는 상태로 말을 하면 안 되고, 국물이 있는 음식을 소리 내면서 먹는 것도 자제해야 한답니다!\n\n다른 설날 예절은 재미있는 애니메이션으로 확인해볼까요?\n\n[애니메이션보기](https://youtu.be/-A2uPaLlp44)",
+      "source": "Editorial",
+      "questions": [
+        "설날 예절에 대해 알아볼까요?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 122,
+            "displayText": "뒤로 가기"
+          }
+        ]
+      }
+    }
+  ]
+}

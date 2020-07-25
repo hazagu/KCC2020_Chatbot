@@ -1,0 +1,22 @@
+Label	Weight	Text
+l_manner	1	목적이뭐니
+manner_qna	1	2. 좋아하는 햄을 먹기위해 부대찌개 뒤적거리기
+manner_qna	1	2.보행중인 안내견을 쓰다듬지 않는다.
+manner_qna	1	두번째 문제 풀기
+manner_qna	1	출석인정 문의
+manner_qna	1	경적을 울리기 위한 적절한 상황은
+manner_qna	1	목적이 무엇입니까
+manner_qna	1	올해 연말 모임에 회자될 주제를 꼽는다면
+manner_qna	1	세번째 문제 풀기
+manner_qna	1	2. c-b-a-d
+manner_qna	1	조리원 및 병실 방문 예절 더 알아보기
+manner_qna	1	파티에서 꼴불견인 모습은 어떤 것인가
+manner_qna	1	▶ 결혼식장 하객 옷차림 에티켓은
+manner_qna	1	3.안내견을 부르지 않는다.
+manner_qna	1	조별과제 수행 중 지켜야 할 에티켓 에티켓 7가지는
+manner_qna	1	모임에 어울릴 수 있는 노하우가 있다면
+manner_qna	1	고속도로에서 지켜야할 에티켓 7가지는
+manner_qna	1	설날 예절에 대해 알아볼까요
+manner_qna	1	1.     상대 결혼식에 내가 축의금을 냈을 때
+manner_qna	1	1. 음주시 건배를 한다.
+manner_qna	1	장례식장에서 지켜야할 에티켓 7가지는?

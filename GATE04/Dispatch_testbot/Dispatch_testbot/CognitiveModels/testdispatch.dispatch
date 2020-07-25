@@ -1,0 +1,41 @@
+{
+  "authoringRegion": "westus",
+  "subscriptionRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_manner",
+      "appId": "b66a7fab-5ab1-4caa-bde4-f3ff4976cc3d",
+      "authoringKey": "7f54e9fc31e84045ad6124875a10da2a",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "mannerbot-luis",
+      "id": "1"
+    },
+    {
+      "intentName": "manner_qna",
+      "includePrompts": true,
+      "kbId": "de413a64-45ba-4bd9-93bd-19c4a1d17ff8",
+      "subscriptionKey": "ebbfe5fea66e4eb2ad8903582324f083",
+      "type": "qna",
+      "name": "mannerbot",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "a7a8db3a-1bbd-4279-b28b-db8ff812ad4f",
+  "authoringKey": "7f54e9fc31e84045ad6124875a10da2a",
+  "subscriptionKey": "037fb43f79d44a9a873be4a517a137f8",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "testdispatch"
+}
