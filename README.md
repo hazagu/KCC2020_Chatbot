@@ -37,16 +37,25 @@ This bot uses the Dispatch service to route utterances as it demonstrates the us
 
 ### Gate04
 
-dispatch : LUIS 모델 및 QnA 모델 사용
-LUIS : 문장교정
-QnA : 생활 예절 질문 및 답변
-
 step 1 : corebot 생성 - visual studio 2019
+
 step 2 : QnA model 생성 - QnA Maker & Azure portal
+
 step 3 : LUIS model 생성
+
 step 4 : dispatch 생성 - cmd
+
 step 5 : code 수정 - visual studio 2019
+
 step 6 : Deploy the bot to Azure - visual studio 2019, Azure portal
+
+#### Role
+
+dispatch : LUIS 모델 및 QnA 모델 사용
+
+LUIS : 문장교정
+
+QnA : 생활 예절 질문 및 답변
 
 ### Use Dispatch with Multiple LUIS and QnA Models
 
