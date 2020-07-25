@@ -1,3 +1,0 @@
-Label	LabelName	Samples
-0	l_manner	6
-1	manner_qna	102

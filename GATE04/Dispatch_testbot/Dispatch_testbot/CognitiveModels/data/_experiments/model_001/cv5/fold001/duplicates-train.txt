@@ -1,2 +1,0 @@
-Utterance	Intents
-목적	l_manner, manner_qna
