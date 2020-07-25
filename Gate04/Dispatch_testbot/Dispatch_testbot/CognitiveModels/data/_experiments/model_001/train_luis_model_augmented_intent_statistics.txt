@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_manner	5	4.8	7	2	1.78885
+1	manner_qna	100	16.8	39	2	9.60114
+ 	__ALL__	105	16.22857	39	2	9.71939
