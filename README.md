@@ -19,24 +19,25 @@ Use the Dispatch model in cases when:
 
 This bot uses the Dispatch service to route utterances as it demonstrates the use of multiple LUIS models and QnA maker services to support multiper conversational scenarios.
 
-### Gate01 : Create Echobot & Deploy the bot to Azure
+## Gate01 : Create Echobot & Deploy the bot to Azure
 
 1. echobot 생성
 2. 배포하기
 
-### Gate02
+## Gate02
 
 1. 챗봇의 주제 정하기
 2. QnA model 생성
 3. mannerbotwithQnA 생성
 
-### Gate03
+## Gate03
 
 1. QnA model 
 2. LUIS model
 
-### Gate04
+## Gate04
 
+### Step of Create Mannerbot
 step 1 : corebot 생성 - visual studio 2019
 
 step 2 : QnA model 생성 - QnA Maker & Azure portal
@@ -49,7 +50,7 @@ step 5 : code 수정 - visual studio 2019
 
 step 6 : Deploy the bot to Azure - visual studio 2019, Azure portal
 
-#### Role
+### Role
 
 dispatch : LUIS 모델 및 QnA 모델 사용
 
