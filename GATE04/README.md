@@ -1,4 +1,4 @@
 ## GATE 04
 
-### MANNERBOT
+### MANNERBOT 
 ### MANNERBOT with dispatch
