@@ -46,6 +46,8 @@ step 3 : LUIS model 생성
 
 step 4 : dispatch 생성 - cmd
 
+  To learn how to configure Dispatch with multiple LUIS models and QnA Maker services, refer to the steps found [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0).
+
 step 5 : code 수정 - visual studio 2019
 
 step 6 : Deploy the bot to Azure - visual studio 2019, Azure portal
@@ -57,10 +59,6 @@ dispatch : LUIS 모델 및 QnA 모델 사용
 LUIS : 문장교정
 
 QnA : 생활 예절 질문 및 답변
-
-### Use Dispatch with Multiple LUIS and QnA Models
-
-To learn how to configure Dispatch with multiple LUIS models and QnA Maker services, refer to the steps found [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0).
 
 ## MannerBot url
 []()
