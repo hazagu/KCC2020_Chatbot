@@ -12,8 +12,6 @@ Use the Dispatch model in cases when:
 - Evaluate quality of intents classification of a single LUIS model.
 - Create a text classification model from text files.
 
-[MannerBot 만들기](youtube url)
-
 
 ### Overview
 
